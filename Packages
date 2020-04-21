@@ -1,0 +1,14 @@
+Package: com.example.package
+Name: Test Package
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is a test package?
+Maintainer: Daniel Cantero (danielcantero2002@gmail.com)
+Author: Daniel Cantero (danielcantero2002@gmail.com)
+Section: Theme
+Depends: Snowboard
+Filename:
+Size: 0
+MD5sum: efa531f2b37b9ec814a34acbe5276ce7
+SHA1:2a1eb2b5e7eadd8c44abe3447bb30a9d7403afbf
+b38fabf3dbc8dfbcf8a1bdbfebdcafc1236c1cfa1e5b12dd73f5a868502964d1
